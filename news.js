@@ -12,7 +12,7 @@
   "Algebraic Progression NGUd'^^-----++++",
   "It'll be 5 hours until the update",
   "Fun fact: This game contains microtransaction repellent",
-  "This is a bad game",
+  "This is not a bad game",
   "Thanks to TheMKeyHolder for helping (a lot)",
   "noice",
   "'I fixed the bug and it's now back' -randomtuba",
@@ -65,8 +65,17 @@
   "the box is full of points",
   "Hmm yes, the points here are made out of points",
   "The secret to making points is preons, so maybe that's why the post-50x wall is slow. It's because of Nanofield!",
-  "Did you just say that Antimatter Dimensions has better than Algebraic Progression? Are you seriously?!?!?! Algebraic Progression are much so better than Antimatter Dimensions. You be must taking drugs or something. go commit toaster bath"
-   ];
+  "Did you just say that Antimatter Dimensions has better than Algebraic Progression? Are you seriously?!?!?! Algebraic Progression are much so better than Antimatter Dimensions. You be must taking drugs or something. go commit toaster bath",
+  "Math is confusing",
+  "The end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never the end is never...",
+  "<p onclick=\"window.location.href=\"https://randomtuba.github.io/Algebraic-Progression/\"\">Check out the original!</p>",
+  "Flavor text",
+  "It reminds me of one summer day in the park. I was having just a delightful picnic with my good friend Orville. And I said to him, I said, 'Orville, I... I have a story.' And he said to me, 'What's the significance of the story?' And... I said to him, 'Orville, not every story has to have significance, y'know? Sometimes, a... y'know, sometimes, a story's just a story. You try to read into every little thing, and find meaning in everything anyone says, you'll just drive yourself crazy.'",
+  "Check out the song Dramaturgy.",
+  "Number = 5y+331x+2.82e19",
+  "?",
+  "GM=4pi² R³/T²"
+  ];
 
 function showNews() {
   let message = Math.floor(Math.random() * newsArray.length);
